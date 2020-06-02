@@ -676,7 +676,7 @@ class IGService:
                     u"scalingFactor",
                 ],
                 "workingOrderData": [
-                    u"orderSize",
+                    u"size",
                     u"trailingStopDistance",
                     u"direction",
                     u"level",
